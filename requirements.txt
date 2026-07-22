@@ -1,0 +1,5 @@
+gradio
+langchain
+langgraph
+langchain-groq
+typing-extensions
